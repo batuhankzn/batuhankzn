@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan Kazan</h1>
 <h3 align="center">A developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **batuhankzn61@gmail.com**
 
